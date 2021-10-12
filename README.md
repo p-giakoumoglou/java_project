@@ -1,1 +1,1 @@
-# java_project
+# Java Project - Theseus VS Minotaur
